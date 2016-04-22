@@ -34,7 +34,7 @@ public class Gestion {
 	 * 
 	 */
 	private static Menu menuFicheros = new Menu("Ficheros.",
-			new String[] { "Nuevo", "Abrir..", "Guardar", "Guardar Como.." });
+			new String[] { "Nuevo", "Abrir..", "Guardar", "Guardar Como..", "Salir." });
 	private static boolean modificado;
 	private static File archivoSeleccionado;
 
